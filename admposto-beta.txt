@@ -2,12 +2,12 @@
 
 [Update]
 Name = ADMPOSTO
-ProductVersion = 1.9.15
-URL = https://github.com/precisaosistemas/admposto/releases/download/v1.9.15/admposto-1.9.15.exe
-Size = 16053250
-MD5 = 34124ae7c287fea3873fd2c1768bb01f
+ProductVersion = 1.9.16
+URL = https://github.com/precisaosistemas/admposto/releases/download/v1.9.16/admposto-1.9.16.exe
+Size = 16084378
+MD5 = 30425d399ba6c3f1e719ca006ab89718
 CommandLine = /exenoui /qn
-ServerFileName = admposto-1.9.15.exe
+ServerFileName = admposto-1.9.16.exe
 Flags = SilentInstall|NoRedetect
 RegistryKey = HKUD\Software\Precisao Sistemas\ADMPosto\Version
-Version = 1.9.15
+Version = 1.9.16
